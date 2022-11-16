@@ -7,5 +7,5 @@
 </div>
 
 <div align='center'>
-<img height="180 cm" src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaPardinho&stroke=f8d847&background=141321&ring=fe428e&fire=fe428e&currStreakNum=a9fef7&currStreakLabel=fe428e&sideNums=a9fef7&sideLabels=fe428e&dates=a9fef7&hide_border=true"/>
+<img height="180 cm" src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaPardinho&stroke=f8d847&background=141321&ring=fe428e&fire=fe428e&currStreakNum=a9fef7&currStreakLabel=fe428e&sideNums=a9fef7&sideLabels=fe428e&dates=a9fef7&hide_border=true&date_format=j/n/Y"/>
 </div>
