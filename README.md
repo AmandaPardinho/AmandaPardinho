@@ -2,17 +2,14 @@
 
 ## **My Stats**
 
----
-
 <div align="center">
-<img alt="Image" height="150 cm" src="https://awesome-github-stats.azurewebsites.net/user-stats/AmandaPardinho?cardType=github&theme=radical">  
+<img alt="Image" height="180 cm" src="https://awesome-github-stats.azurewebsites.net/user-stats/AmandaPardinho?cardType=github&theme=radical">  
 <img height="180 cm" src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaPardinho&stroke=f8d847&background=141321&ring=fe428e&fire=fe428e&currStreakNum=a9fef7&currStreakLabel=fe428e&sideNums=a9fef7&sideLabels=fe428e&dates=a9fef7&hide_border=false&date_format=j/n/Y"/>
 </div>
 
 ---
 
 ## **Languages**
----
 
 <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
