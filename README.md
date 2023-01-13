@@ -3,7 +3,6 @@
 ## My Stats
 <div align='center'>
 <img alt="Image" height="150 cm" src="https://awesome-github-stats.azurewebsites.net/user-stats/AmandaPardinho?cardType=github&theme=radical">  
-<img alt="Image" height="150 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaPardinho&amp;layout=compact&amp;langs_count=7&amp;theme=radical"/>
 </div>
 
 <div align='center'>
