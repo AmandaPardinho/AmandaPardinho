@@ -1,4 +1,4 @@
-# Hi everyone! I'm [Amanda](http://www.linkedin.com/in/amandapardinho) :grinning_face_with_smiling_eyes: 
+# Hi everyone! I'm [Amanda](http://www.linkedin.com/in/amandapardinho) :wave:
 
 ## **My Stats**
 
