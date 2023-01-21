@@ -5,10 +5,11 @@
 <div align="center">
 <img alt="Image" height="150 cm" src="https://awesome-github-stats.azurewebsites.net/user-stats/AmandaPardinho?cardType=github&theme=radical">  
 <img height="150 cm" src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaPardinho&stroke=f8d847&background=141321&ring=fe428e&fire=fe428e&currStreakNum=a9fef7&currStreakLabel=fe428e&sideNums=a9fef7&sideLabels=fe428e&dates=a9fef7&hide_border=false&date_format=j/n/Y"/>
+<img alt="Image" height="150 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaPardinho&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaPardinho&cardType=github&theme=radical&layout=compact)](https://github.com/AmandaPardinho/github-readme-stats)
+
 
 ---
 
