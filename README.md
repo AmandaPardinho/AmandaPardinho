@@ -1,6 +1,6 @@
 # Hi everyone! I'm [Amanda](http://www.linkedin.com/in/amandapardinho) :wave: 
 
-## **My Stats** :chart_with_upwards_trend:
+## **My Stats** :bar_chart::chart_with_upwards_trend:
 
 <div align="center">
 <img alt="Image" height="150 cm" src="https://awesome-github-stats.azurewebsites.net/user-stats/AmandaPardinho?cardType=github&theme=radical">  
